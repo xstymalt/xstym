@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sammy</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate frontend developer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignsammy&label=Profile%20views&color=0e75b6&style=flat" alt="ignsammy" /> </p>
 
-- I'm Currently Working With **KofiWowWho**
+- I'm Currently Working On **SkyPort**
 
 - Currently Learning **Vue.js**
 
