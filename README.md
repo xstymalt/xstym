@@ -7,7 +7,7 @@
 
 - Currently Learning **GODOT**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignsammy&show_icons=true&locale=en" alt="ignsammy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xstymalt&show_icons=true&locale=en" alt="xstymalt" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
