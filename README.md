@@ -17,11 +17,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="rust" width="40"
-</a> <h1> </h1>
+</a>
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/godot/godot-original.svg" alt="godot" width="40"
-</a> <h1> </h1>
+</a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="java" width="40"
-</a> <h1> </h1>
+</a>
  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" alt="node" width="40"
 </a>  
 </p>
